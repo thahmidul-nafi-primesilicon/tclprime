@@ -1,0 +1,26 @@
+
+puts "Enter a number for fibonacci series: "
+set num [gets stdin]
+
+proc fib { n } {
+	set fibcache {}
+
+	if { (n == 0) || (n == 1) } {
+		lappend fibcache 1
+	}	else {
+		lappend fibcache [$n]
+	} 
+
+	if {[expr {$n eq $num}]} {
+		puts "$fibcache"
+	}
+}
+
+puts "$num"
+
+
+proc printfib { x } {
+	puts [expr { $x + 1 }]
+}
+
+printfib $num
