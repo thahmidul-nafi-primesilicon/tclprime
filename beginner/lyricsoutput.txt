@@ -1,0 +1,12 @@
+Number of times summer appears in line: 1
+4: Was the winter of sixty-nine
+Number of times summer appears in line: 1
+10: That winter seemed to last forever
+Number of times summer appears in line: 1
+24: Back in the winter of sixty-nine, oh
+Number of times summer appears in line: 1
+39: Back in the winter of sixty-nine, oh
+Number of times summer appears in line: 1
+40: It was the winter of sixty-nine, oh, yeah
+Number of times summer appears in line: 3
+42: It was the winter, the winter, the winter of sixty-nine, yeah
