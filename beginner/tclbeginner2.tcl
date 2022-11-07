@@ -24,7 +24,7 @@ proc fib {n} {
 set fibcache {}
 
 
-puts "[fib $num]"
+fib $num
 
 puts "$fibcache"
 
