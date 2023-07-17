@@ -1,12 +1,12 @@
 ## Problems Completed
 
-- [ ] Problem 1
-- [ ] Problem 2
-- [ ] Problem 3
-- [ ] Problem 4
-- [ ] Problem 5
-- [ ] Problem 6
-- [ ] Problem 7
-- [ ] Problem 8
-- [ ] Problem 9
-- [ ] Problem 10
+- [x] Problem 1
+- [x] Problem 2
+- [x] Problem 3
+- [x] Problem 4
+- [x] Problem 5
+- [x] Problem 6
+- [x] Problem 7
+- [x] Problem 8
+- [x] Problem 9
+- [x] Problem 10
